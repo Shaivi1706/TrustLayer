@@ -1,0 +1,8 @@
+{
+  "name": "data-dictionary",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
